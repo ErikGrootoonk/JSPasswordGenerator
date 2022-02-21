@@ -1,0 +1,18 @@
+{
+  "name": "jspasswordgenerator",
+  "version": "1.0.0",
+  "description": "random password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EG",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
